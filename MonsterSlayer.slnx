@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MonsterSlayer.vcxproj" Id="2fb8aaf7-c3f8-49ce-91f0-12f059dff87e" />
+</Solution>
